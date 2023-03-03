@@ -236,8 +236,8 @@ body,
 input,
 select,
 textarea {
-	color: teal;
-	font-family: "Jazz LET", fantasy;
+	color: rgba(106, 142, 142, 0.627);
+	font-family: "American Typewriter", serif;
 	font-weight: 300;
 	font-size: 1rem;
 	line-height: 1.65;
