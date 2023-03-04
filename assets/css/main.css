@@ -652,7 +652,7 @@ input[type="radio"]:checked+label:before {
 
 input[type="checkbox"]:focus+label:before,
 input[type="radio"]:focus+label:before {
-	background: rgba(221, 15, 15, 0.848);
+	background: rgba(221, 15, 15, 0.766);
 	border-color: #ffffff;
 	box-shadow: 0 0 0 1px #ffffff;
 }
