@@ -186,7 +186,7 @@ html {
 }
 
 body {
-	background: #1b1f22;
+	background: #4b4b49;
 }
 
 body.is-preload *,
@@ -236,9 +236,9 @@ body,
 input,
 select,
 textarea {
-	color: rgba(106, 142, 142, 0.627);
-	font-family: "American Typewriter", serif;
-	font-weight: 300;
+	color: rgb(255, 255, 255);
+	font-family: "Verdana" sans-serif";
+ font-weight: 300;
 	font-size: 1rem;
 	line-height: 1.65;
 }
@@ -538,9 +538,9 @@ input[type="email"]:focus,
 input[type="tel"]:focus,
 select:focus,
 textarea:focus {
-	background: rgba(255, 255, 255, 0.075);
+	background: rgba(178, 32, 32, 0.075);
 	border-color: #ffffff;
-	box-shadow: 0 0 0 1px #ffffff;
+	box-shadow: 0 0 0 1px #2943d2;
 }
 
 select {
@@ -555,7 +555,7 @@ select {
 
 select option {
 	color: #ffffff;
-	background: #1b1f22;
+	background: #1c1f20;
 }
 
 select:focus::-ms-value {
@@ -645,14 +645,14 @@ input[type="radio"]+label:before {
 input[type="checkbox"]:checked+label:before,
 input[type="radio"]:checked+label:before {
 	background: #ffffff !important;
-	border-color: #ffffff !important;
-	color: #1b1f22;
+	border-color: #f9f9f6 !important;
+	color: #0b3d63;
 	content: '\f00c';
 }
 
 input[type="checkbox"]:focus+label:before,
 input[type="radio"]:focus+label:before {
-	background: rgba(255, 255, 255, 0.075);
+	background: rgba(221, 15, 15, 0.848);
 	border-color: #ffffff;
 	box-shadow: 0 0 0 1px #ffffff;
 }
@@ -760,7 +760,7 @@ input[type="radio"]+label:before {
 .image:before {
 	pointer-events: none;
 	background-image: url("../../images/overlay.png");
-	background-color: rgba(19, 21, 25, 0.5);
+	background-color: rgba(0, 0, 0, 0.5);
 	border-radius: 4px;
 	content: '';
 	display: block;
@@ -1056,7 +1056,7 @@ table {
 }
 
 table tbody tr {
-	border: solid 1px #ffffff;
+	border: solid 1px #0b0a01;
 	border-left: 0;
 	border-right: 0;
 }
@@ -1070,7 +1070,7 @@ table td {
 }
 
 table th {
-	color: #ffffff;
+	color: #0b0901;
 	font-size: 0.9em;
 	font-weight: 600;
 	padding: 0 0.75em 0.75em 0.75em;
@@ -1151,7 +1151,7 @@ input[type="reset"]:hover,
 input[type="button"]:hover,
 button:hover,
 .button:hover {
-	background-color: rgba(255, 255, 255, 0.075);
+	background-color: rgba(249, 245, 245, 0.683);
 }
 
 input[type="submit"]:active,
@@ -1256,7 +1256,7 @@ button {
 	-webkit-transition-delay: 0.75s;
 	-ms-transition-delay: 0.75s;
 	transition-delay: 0.75s;
-	background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
+	background-image: linear-gradient(to top, rgba(22, 78, 190, 0.825), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
 	background-size: auto,
 		256px 256px;
 	background-position: center,
@@ -1271,11 +1271,11 @@ button {
 	-webkit-transform: scale(1.125);
 	-ms-transform: scale(1.125);
 	transform: scale(1.125);
-	-moz-transition: -moz-transform 0.325s ease-in-out, -moz-filter 0.325s ease-in-out;
-	-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
-	-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
-	transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-	background-image: url("../../images/bg.jpg");
+	-moz-transition: -moz-transform 0.1s ease-in-out, -moz-filter 0.1s ease-in-out;
+	-webkit-transition: -webkit-transform 0.1s ease-in-out, -webkit-filter 0.1s ease-in-out;
+	-ms-transition: -ms-transform 0.1s ease-in-out, -ms-filter 0.1s ease-in-out;
+	transition: transform 0.1s ease-in-out, filter 0.1s ease-in-out;
+	background-image: url("https://images.pexels.com/photos/7577831/pexels-photo-7577831.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
