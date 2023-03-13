@@ -6,6 +6,9 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+
+
+
 html,
 body {
 	margin: 0;
@@ -45,7 +48,8 @@ body {
 	height: calc(100% + 4px);
 	animation: glowing 20s linear infinite;
 	opacity: 0;
-	transition: opacity 1.25s ease-in-out;
+	transition: opacity 0s ease-in;
+	transition: opacity 1.25s ease-out;
 	border-radius: 15px;
 }
 
@@ -1857,4 +1861,8 @@ body.is-article-visible #footer {
 
 body.is-preload #footer {
 	opacity: 0;
+}
+
+article.skills {
+	color: teal;
 }
