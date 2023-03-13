@@ -20,7 +20,11 @@ body {
 	justify-content: center;
 	align-items: center;
 	background: whitesmoke;
+	gap: 1em;
+}
 
+button {
+	margin: 5px;
 }
 
 .glow-on-hover {
