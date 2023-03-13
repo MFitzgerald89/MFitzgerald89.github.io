@@ -19,7 +19,8 @@ body {
 	flex-direction: row;
 	justify-content: center;
 	align-items: center;
-	background: teal;
+	background: whitesmoke;
+
 }
 
 .glow-on-hover {
@@ -54,7 +55,7 @@ body {
 }
 
 .glow-on-hover:active {
-	color: #000
+	color: #3787c9
 }
 
 .glow-on-hover:active:after {
