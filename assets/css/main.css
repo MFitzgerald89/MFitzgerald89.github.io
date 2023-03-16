@@ -6,14 +6,19 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-
+article[id="about"] {
+	width: auto;
+	height: auto;
+	flex-direction: row;
+	align-items: center;
+}
 
 html,
 body {
 	margin: 0;
 	padding: 1em;
-	width: 100%;
-	height: 100vh;
+	width: auto;
+	height: auto;
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
