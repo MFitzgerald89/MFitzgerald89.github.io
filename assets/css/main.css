@@ -1369,11 +1369,11 @@ button {
 	-webkit-transform: scale(1.125);
 	-ms-transform: scale(1.125);
 	transform: scale(1.125);
-	-moz-transition: -moz-transform 5s ease-in-out, -moz-filter 5s ease-in-out;
-	-webkit-transition: -webkit-transform 5s ease-in-out, -webkit-filter 5s ease-in-out;
-	-ms-transition: -ms-transform 5s ease-in-out, -ms-filter 5s ease-in-out;
-	transition: transform 5s ease-in-out, filter 5s ease-in-out;
-	background-image: url("images/pexels-photo-7577831.webp");
+	-moz-transition: -moz-transform 0.325s ease-in-out, -moz-filter 0.325s ease-in-out;
+	-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
+	-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
+	transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
+	background-image: url("images/Background_image_PW copy.jpg");
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
