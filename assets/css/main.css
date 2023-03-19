@@ -1372,7 +1372,7 @@ button {
 	-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 	-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 	transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-	background-image: url("/Users/student/Actualize/MFitzgerald89.github.io/images/Hall_of_Knowledge.jpg");
+	background-image: url("https://images.pexels.com/photos/911758/pexels-photo-911758.jpeg?auto=compress&cs=tinysrgb&w=175&fit=crop&h=275&dpr=1");
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
