@@ -45,7 +45,7 @@ body {
 
 .glow-on-hover:before {
 	content: '';
-	background: linear-gradient(270deg, rgb(120, 125, 200), rgb(120, 125, 200), white, rgb(120, 125, 200), rgb(120, 125, 200), #828283, white, #3524ed, rgb(120, 125, 200));
+	background: linear-gradient(270deg, rgba(20, 191, 200, 0.518), #00e0f5a7, rgba(140, 239, 170, 0.607), white, rgb(120, 192, 200), rgb(140, 239, 170, 0.607), black, white, #00e0f5a7, rgb(20, 191, 200, 0.518));
 	position: absolute;
 	top: -2px;
 	left: -2px;
