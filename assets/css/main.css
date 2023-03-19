@@ -1372,7 +1372,7 @@ button {
 	-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 	-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 	transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-	background-image: URL("https://images.pexels.com/photos/2400547/pexels-photo-2400547.jpeg?auto=compress&cs=tinysrgb&w=175&fit=crop&h=275&dpr=1");
+	background-image: url("images/Background_photo.jpeg");
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
