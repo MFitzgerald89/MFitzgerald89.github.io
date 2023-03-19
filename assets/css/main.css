@@ -1372,7 +1372,7 @@ button {
 	-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 	-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 	transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-	background-image: URL("images/Intro_Picture.png");
+	background-image: URL("/Users/student/Actualize/MFitzgerald89.github.io/images/pexels-benjamin-suter-2400547.jpg");
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
