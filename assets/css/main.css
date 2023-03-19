@@ -1353,7 +1353,7 @@ button {
 	-webkit-transition-delay: 0.75s;
 	-ms-transition-delay: 0.75s;
 	transition-delay: 0.75s;
-	background-image: linear-gradient(to top, rgba(30, 170, 230, 0.482), rgba(193, 239, 239, 0.474)), url("../../images/overlay.png");
+	background-image: url("../../images/Personal_Photo.png");
 	background-size: auto,
 		256px 256px;
 	background-position: center,
