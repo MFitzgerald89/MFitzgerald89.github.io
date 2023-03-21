@@ -1243,8 +1243,8 @@ button,
 	color: #cf0d0d !important;
 	cursor: pointer;
 	display: inline-block;
-	font-size: larger;
-	font-weight: 900;
+	font-size: medium;
+	font-weight: 600;
 	height: 2.75rem;
 	letter-spacing: 0.2rem;
 	line-height: 2.75rem;
